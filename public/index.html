@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Motorcito · Mundial 2026 · Sistema vivo de predicción</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="brand">
+        <span class="logo">⚽</span>
+        <div>
+          <h1>Motorcito</h1>
+          <p id="subtitle">Mundial 2026 · sistema vivo de predicción</p>
+        </div>
+      </div>
+      <div class="actions">
+        <span id="version" class="pill" title="Versión actual del consenso">v —</span>
+        <button id="sync-btn" class="btn primary">Sincronizar resultados</button>
+        <a class="btn" href="/api/export?format=json" target="_blank" rel="noopener">Export JSON</a>
+        <a class="btn" href="/api/export?format=csv&what=matches" target="_blank" rel="noopener">Export CSV</a>
+      </div>
+    </header>
+
+    <nav id="tabs">
+      <button data-tab="dashboard" class="active">Panel</button>
+      <button data-tab="groups">Grupos</button>
+      <button data-tab="bracket">Llaves</button>
+      <button data-tab="models">Modelos</button>
+      <button data-tab="audit">Auditoría</button>
+    </nav>
+
+    <main>
+      <section id="dashboard" class="tab active"></section>
+      <section id="groups" class="tab"></section>
+      <section id="bracket" class="tab"></section>
+      <section id="models" class="tab"></section>
+      <section id="audit" class="tab"></section>
+    </main>
+
+    <div id="modal" class="modal hidden">
+      <div class="modal-card">
+        <button id="modal-close" class="modal-close">×</button>
+        <div id="modal-body"></div>
+      </div>
+    </div>
+
+    <footer>
+      <span>Fuentes: predicción de mercado (Elo) · consenso del sistema (10 modelos + Gemini) · resultado real (API)</span>
+    </footer>
+    <script src="/app.js"></script>
+  </body>
+</html>

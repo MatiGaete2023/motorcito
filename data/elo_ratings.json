@@ -1,0 +1,290 @@
+{
+  "ARG": {
+    "elo": 2127,
+    "attack": 2.1,
+    "defense": 0.6,
+    "es": "Argentina"
+  },
+  "FRA": {
+    "elo": 2112,
+    "attack": 2.3,
+    "defense": 0.7,
+    "es": "Francia"
+  },
+  "BRA": {
+    "elo": 2103,
+    "attack": 2,
+    "defense": 0.9,
+    "es": "Brasil"
+  },
+  "ENG": {
+    "elo": 2098,
+    "attack": 1.9,
+    "defense": 0.7,
+    "es": "Inglaterra"
+  },
+  "ESP": {
+    "elo": 2087,
+    "attack": 2.4,
+    "defense": 0.8,
+    "es": "España"
+  },
+  "POR": {
+    "elo": 2069,
+    "attack": 2,
+    "defense": 0.8,
+    "es": "Portugal"
+  },
+  "GER": {
+    "elo": 2061,
+    "attack": 2.1,
+    "defense": 0.9,
+    "es": "Alemania"
+  },
+  "NED": {
+    "elo": 2058,
+    "attack": 1.8,
+    "defense": 0.8,
+    "es": "Países Bajos"
+  },
+  "BEL": {
+    "elo": 2044,
+    "attack": 1.6,
+    "defense": 1,
+    "es": "Bélgica"
+  },
+  "COL": {
+    "elo": 2032,
+    "attack": 1.7,
+    "defense": 0.8,
+    "es": "Colombia"
+  },
+  "URU": {
+    "elo": 2027,
+    "attack": 1.6,
+    "defense": 0.9,
+    "es": "Uruguay"
+  },
+  "CRO": {
+    "elo": 1998,
+    "attack": 1.4,
+    "defense": 0.9,
+    "es": "Croacia"
+  },
+  "MAR": {
+    "elo": 1988,
+    "attack": 1.3,
+    "defense": 0.7,
+    "es": "Marruecos"
+  },
+  "JPN": {
+    "elo": 1978,
+    "attack": 1.5,
+    "defense": 0.9,
+    "es": "Japón"
+  },
+  "MEX": {
+    "elo": 1945,
+    "attack": 1.3,
+    "defense": 1,
+    "es": "México"
+  },
+  "USA": {
+    "elo": 1935,
+    "attack": 1.4,
+    "defense": 1.1,
+    "es": "Estados Unidos"
+  },
+  "SUI": {
+    "elo": 1932,
+    "attack": 1.4,
+    "defense": 1,
+    "es": "Suiza"
+  },
+  "AUT": {
+    "elo": 1928,
+    "attack": 1.5,
+    "defense": 1.2,
+    "es": "Austria"
+  },
+  "NOR": {
+    "elo": 1924,
+    "attack": 1.5,
+    "defense": 1.3,
+    "es": "Noruega"
+  },
+  "KOR": {
+    "elo": 1918,
+    "attack": 1.2,
+    "defense": 1,
+    "es": "Corea del Sur"
+  },
+  "ECU": {
+    "elo": 1912,
+    "attack": 1.3,
+    "defense": 1,
+    "es": "Ecuador"
+  },
+  "SEN": {
+    "elo": 1908,
+    "attack": 1.4,
+    "defense": 0.9,
+    "es": "Senegal"
+  },
+  "IRN": {
+    "elo": 1895,
+    "attack": 1.3,
+    "defense": 0.9,
+    "es": "Irán"
+  },
+  "AUS": {
+    "elo": 1889,
+    "attack": 1.1,
+    "defense": 1,
+    "es": "Australia"
+  },
+  "TUR": {
+    "elo": 1885,
+    "attack": 1.4,
+    "defense": 1.3,
+    "es": "Turquía"
+  },
+  "EGY": {
+    "elo": 1878,
+    "attack": 1.2,
+    "defense": 1.1,
+    "es": "Egipto"
+  },
+  "ALG": {
+    "elo": 1872,
+    "attack": 1.1,
+    "defense": 1,
+    "es": "Argelia"
+  },
+  "TUN": {
+    "elo": 1865,
+    "attack": 1,
+    "defense": 1,
+    "es": "Túnez"
+  },
+  "SWE": {
+    "elo": 1862,
+    "attack": 1.3,
+    "defense": 1.2,
+    "es": "Suecia"
+  },
+  "CZE": {
+    "elo": 1855,
+    "attack": 1.1,
+    "defense": 1.1,
+    "es": "Chequia"
+  },
+  "PAR": {
+    "elo": 1848,
+    "attack": 0.9,
+    "defense": 1.1,
+    "es": "Paraguay"
+  },
+  "KSA": {
+    "elo": 1842,
+    "attack": 1,
+    "defense": 1.1,
+    "es": "Arabia Saudita"
+  },
+  "BIH": {
+    "elo": 1835,
+    "attack": 1,
+    "defense": 1.3,
+    "es": "Bosnia y Herzegovina"
+  },
+  "CAN": {
+    "elo": 1832,
+    "attack": 1.2,
+    "defense": 1.2,
+    "es": "Canadá"
+  },
+  "SCO": {
+    "elo": 1825,
+    "attack": 1.2,
+    "defense": 1.1,
+    "es": "Escocia"
+  },
+  "RSA": {
+    "elo": 1818,
+    "attack": 0.9,
+    "defense": 1.1,
+    "es": "Sudáfrica"
+  },
+  "CIV": {
+    "elo": 1808,
+    "attack": 1.2,
+    "defense": 1.2,
+    "es": "Costa de Marfil"
+  },
+  "CPV": {
+    "elo": 1802,
+    "attack": 0.8,
+    "defense": 1,
+    "es": "Cabo Verde"
+  },
+  "QAT": {
+    "elo": 1795,
+    "attack": 0.9,
+    "defense": 1.3,
+    "es": "Qatar"
+  },
+  "GHA": {
+    "elo": 1792,
+    "attack": 1.1,
+    "defense": 1.2,
+    "es": "Ghana"
+  },
+  "JOR": {
+    "elo": 1785,
+    "attack": 0.9,
+    "defense": 1.1,
+    "es": "Jordania"
+  },
+  "IRQ": {
+    "elo": 1778,
+    "attack": 0.9,
+    "defense": 1.2,
+    "es": "Irak"
+  },
+  "NZL": {
+    "elo": 1772,
+    "attack": 0.8,
+    "defense": 1.2,
+    "es": "Nueva Zelanda"
+  },
+  "UZB": {
+    "elo": 1768,
+    "attack": 1,
+    "defense": 1.2,
+    "es": "Uzbekistán"
+  },
+  "HTI": {
+    "elo": 1762,
+    "attack": 0.7,
+    "defense": 1.4,
+    "es": "Haití"
+  },
+  "COD": {
+    "elo": 1758,
+    "attack": 0.9,
+    "defense": 1.3,
+    "es": "RD Congo"
+  },
+  "CUW": {
+    "elo": 1745,
+    "attack": 0.8,
+    "defense": 1.4,
+    "es": "Curazao"
+  },
+  "PAN": {
+    "elo": 1738,
+    "attack": 0.8,
+    "defense": 1.2,
+    "es": "Panamá"
+  }
+}
